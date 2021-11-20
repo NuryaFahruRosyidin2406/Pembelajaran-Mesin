@@ -1,0 +1,34 @@
+Dalam mempelajari dan memahami Machine Learning
+diperlukan mempelajari secara FCP
+
+- F untuk Fundamental
+     Fundamental yang harus dipelajari ada:
+        - Probability & Bayesian
+	- Statistical Methods
+	- VC & Bias-Variance
+	- Complexity Theorem
+	- Algebra & Calculus
+	- Convex Optimization
+
+- C untuk Conceptual / konseptual
+     Conceptual yang perlu dipelajari ada:
+	- ML / DL Models (Machine Learning / Deep Learning)
+	- Various Methods
+	- Computer Engine
+	- Framework and Library
+
+- P untuk Practical / praktis
+     Practical yang perlu dilatih ada:
+	- Data Collection
+	- Data Curation
+	- Data Understanding
+	- Exploratory Data Analysis
+	- Data Visualization
+	- Predictive Models (ML / DL)
+	- Prescriptive Models (ML / DL)
+	- Continuous Improvements
+
+The Essence atau intinya dari Machine Learning
+   - We have pattern in data / kami memiliki pola pada data
+   - No analytical solutions / tidak ada solusi analitis
+   - We have enough data / kami memiliki data yang cukup
