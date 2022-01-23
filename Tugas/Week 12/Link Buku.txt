@@ -1,0 +1,1 @@
+http://www.d2l.ai/chapter_convolutional-modern/alexnet.html
